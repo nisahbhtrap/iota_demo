@@ -10,7 +10,7 @@ Initially we need to have these installed:
 
 Now cloning this repository:
 ```
-git clone “mylink”
+git clone https://github.com/nisahbhtrap/iota_demo.git
 cd iota_demo
 npm install @iota/core @iota/converter --save
 ```
